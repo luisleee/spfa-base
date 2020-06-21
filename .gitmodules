@@ -1,0 +1,3 @@
+[submodule "theme/spfa-theme-default"]
+	path = theme/spfa-theme-default
+	url = https://github.com/luisleee/spfa-theme-default.git
